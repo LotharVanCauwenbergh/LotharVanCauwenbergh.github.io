@@ -1,0 +1,12 @@
+.title{
+ color: blue;
+}
+.body{
+    background-color: orange;
+    font-family: sans-serif;
+}
+.img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
